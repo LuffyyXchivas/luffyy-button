@@ -1,0 +1,9 @@
+{
+  "prefix": "!",
+  "token": "bot token",
+  "sahip": "sahip id (çok önemli doldurun!)",
+  "tag": "tagınız",
+  "sunucuismi": "sunucu ismi",
+  "etkinlik": "etkinlik katılımcısı rol id",
+  "çekiliş": "çekiliş katılımcısı rol id"
+}
